@@ -11,10 +11,6 @@
 ## 🧠 About Me
 
 - 👨‍💻 Junior Software Developer (20 y/o)  
-- 📱 Focus on cross-platform & backend-heavy applications  
-- 🧩 Clean code, structured systems, practical solutions  
-
----
 
 ## 💻 Tech Stack
 
@@ -58,16 +54,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian)
 ![OBS](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio)
 ![Google_Cloud_Console](https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=google)
-
----
-
-## ⚙️ What I Build
-
-- 🧠 Database-heavy applications  
-- 📱 Cross-platform mobile apps (Flutter)  
-- 🔐 Firebase-backed authentication & data flows
-
----
 
 ## 🎯 Goals
 
